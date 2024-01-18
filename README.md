@@ -1,4 +1,4 @@
-# Máquina de Café
+ # Máquina de Café
 
 Un sencillo simulador de máquina de café basado en consola, escrito en C#.
 
@@ -44,9 +44,3 @@ Inserte monedas. ¿Cuántas quarters?: 2
 ¿Cuántas pennies?: 3
 Aquí tiene su latte. ¡Disfrute! Aquí hay $0.35 dólares de cambio.
 ```
-
-## Licencia
-
-Este proyecto está bajo la [Licencia MIT](LICENSE).
-
-Siéntase libre de usar, modificar y distribuir este código con fines educativos o personales.
